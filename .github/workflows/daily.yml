@@ -1,0 +1,35 @@
+name: Daily day sheet
+
+on:
+  schedule:
+    - cron: "10 7 * * *"   # 07:10 UTC, about 08:10 UK
+  workflow_dispatch:        # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pull stats and rebuild the page
+        env:
+          WPCOM_STATS_KEY: ${{ secrets.WPCOM_STATS_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python pipeline/update.py run
+
+      - name: Publish
+        run: |
+          cp pipeline/desk.html index.html
+          git config user.name "shearer-desk bot"
+          git config user.email "actions@github.com"
+          git add -A
+          git diff --staged --quiet && echo "nothing changed" && exit 0
+          git commit -m "Day sheet: $(date -u +%F)"
+          git push
