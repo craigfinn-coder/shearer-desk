@@ -5253,7 +5253,7 @@
    "date": "2026-09-30T09:29:47+01:00",
    "title": "Moment Celtic Star Delivers Decisive Moment in Six-Goal International Thriller",
    "url": "https://celtsarehere.com/moment-celtic-star-delivers-decisive-moment-in-six-goal-international-thriller/",
-   "views": 1822,
+   "views": 1820,
    "type": "player_quotes"
   },
   {
@@ -5280,7 +5280,7 @@
    "date": "2026-09-30T11:30:00+01:00",
    "title": "Celtic Supporters Groups Unite as 300 Shareholders Back AGM Challenge",
    "url": "https://celtsarehere.com/celtic-supporters-agm-push/",
-   "views": 3712,
+   "views": 3711,
    "type": "fan_reaction"
   },
   {
@@ -5316,7 +5316,7 @@
    "date": "2026-10-01T15:43:03+01:00",
    "title": "Brendan Rodgers Insider Confirms Celtic Exit Discussion",
    "url": "https://celtsarehere.com/rodgers-celtic-paul-john-dykes/",
-   "views": 1944,
+   "views": 1972,
    "type": "manager_newsline"
   },
   {
@@ -5325,7 +5325,7 @@
    "date": "2026-10-01T16:03:17+01:00",
    "title": "\u201cInvited To\u2026\u201d \u2013 Robbie Keane Addresses Celtic Manager Speculation",
    "url": "https://celtsarehere.com/keane-celtic-manager-talks/",
-   "views": 702,
+   "views": 713,
    "type": "player_quotes"
   },
   {
@@ -5334,7 +5334,7 @@
    "date": "2026-10-01T16:49:44+01:00",
    "title": "Celtic Handed Fresh Concern After Star Ruled Out",
    "url": "https://celtsarehere.com/celtic-star-ruled-out-international/",
-   "views": 778,
+   "views": 790,
    "type": "injury_news"
   },
   {
@@ -5343,7 +5343,7 @@
    "date": "2026-10-01T17:15:51+01:00",
    "title": "Major Jota Celtic Return Update Emerges",
    "url": "https://celtsarehere.com/jota-celtic-recovery/",
-   "views": 2032,
+   "views": 2052,
    "type": "other"
   },
   {
@@ -5352,7 +5352,7 @@
    "date": "2026-10-01T17:47:32+01:00",
    "title": "Celtic Transfer Payment Concern as FIFA Sanction Looms",
    "url": "https://celtsarehere.com/celtic-transfer-payment-concern/",
-   "views": 2585,
+   "views": 2638,
    "type": "transfer_link"
   },
   {
@@ -5361,7 +5361,7 @@
    "date": "2026-10-01T18:26:06+01:00",
    "title": "\u201cWe Understood\u201d \u2013 Marcelo Saracchi Drops Brilliant Martin O\u2019Neill Revelation",
    "url": "https://celtsarehere.com/saracchi-oneill-celtic-admission/",
-   "views": 335,
+   "views": 347,
    "type": "manager_presser"
   },
   {
@@ -5370,7 +5370,7 @@
    "date": "2026-10-01T18:57:05+01:00",
    "title": "\u201cDid Not Think\u2026\u201d \u2013 Marcelo Saracchi Reveals Celtic Exit Surprise",
    "url": "https://celtsarehere.com/saracchi-celtic-farewell/",
-   "views": 186,
+   "views": 195,
    "type": "exit_news"
   },
   {
@@ -5379,7 +5379,7 @@
    "date": "2026-10-01T19:39:51+01:00",
    "title": "Jota Nears Celtic Comeback as Patience Warning Emerges",
    "url": "https://celtsarehere.com/jota-celtic-comeback-warning/",
-   "views": 284,
+   "views": 296,
    "type": "player_quotes"
   },
   {
@@ -5388,7 +5388,7 @@
    "date": "2026-10-01T20:06:42+01:00",
    "title": "Celtic Star Completes Surprise Loan Exit",
    "url": "https://celtsarehere.com/celtic-star-surprise-loan-exit/",
-   "views": 7933,
+   "views": 8325,
    "type": "transfer_in_motion"
   },
   {
@@ -5397,7 +5397,7 @@
    "date": "2026-10-01T20:42:50+01:00",
    "title": "Celtic Teenager Forces First-Team Talk After Incredible Goal Run",
    "url": "https://celtsarehere.com/celtic-teenager-first-team-talk/",
-   "views": 3681,
+   "views": 3762,
    "type": "transfer_in_motion"
   },
   {
@@ -5406,7 +5406,7 @@
    "date": "2026-10-01T21:21:33+01:00",
    "title": "\u201cBig Teams\u201d \u2013 Chris Sutton and Kris Boyd Clash in Heated Celtic Debate",
    "url": "https://celtsarehere.com/sutton-boyd-celtic-seville-claim/",
-   "views": 628,
+   "views": 637,
    "type": "pundit_reaction"
   },
   {
@@ -5415,7 +5415,7 @@
    "date": "2026-10-01T21:51:27+01:00",
    "title": "Celtic Summer Signing Handed National Team Debut",
    "url": "https://celtsarehere.com/celtic-baur-germany-debut-klopp/",
-   "views": 296,
+   "views": 301,
    "type": "international"
   }
  ],
@@ -5706,11 +5706,15 @@
   },
   "2026-10-01": {
    "posts": 19,
-   "median": 778
+   "median": 790
   },
   "2026-10-02": {
    "posts": 17,
-   "median": 1358
+   "median": 1476
+  },
+  "2026-10-03": {
+   "posts": 13,
+   "median": 1204
   }
  }
 }
