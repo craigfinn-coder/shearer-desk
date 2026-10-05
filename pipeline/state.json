@@ -5253,7 +5253,7 @@
    "date": "2026-09-30T09:29:47+01:00",
    "title": "Moment Celtic Star Delivers Decisive Moment in Six-Goal International Thriller",
    "url": "https://celtsarehere.com/moment-celtic-star-delivers-decisive-moment-in-six-goal-international-thriller/",
-   "views": 1820,
+   "views": 1822,
    "type": "player_quotes"
   },
   {
@@ -5289,7 +5289,7 @@
    "date": "2026-09-30T12:06:40+01:00",
    "title": "Jota Insider Drops Celtic Return Update",
    "url": "https://celtsarehere.com/jota-insider-celtic-return/",
-   "views": 3897,
+   "views": 3896,
    "type": "other"
   },
   {
@@ -5710,11 +5710,15 @@
   },
   "2026-10-02": {
    "posts": 17,
-   "median": 1476
+   "median": 1501
   },
   "2026-10-03": {
    "posts": 13,
-   "median": 1204
+   "median": 1581
+  },
+  "2026-10-04": {
+   "posts": 12,
+   "median": 2128.5
   }
  }
 }
