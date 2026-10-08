@@ -5370,7 +5370,7 @@
    "date": "2026-10-01T18:57:05+01:00",
    "title": "\u201cDid Not Think\u2026\u201d \u2013 Marcelo Saracchi Reveals Celtic Exit Surprise",
    "url": "https://celtsarehere.com/saracchi-celtic-farewell/",
-   "views": 195,
+   "views": 194,
    "type": "exit_news"
   },
   {
@@ -5722,11 +5722,15 @@
   },
   "2026-10-05": {
    "posts": 17,
-   "median": 605
+   "median": 607
   },
   "2026-10-06": {
    "posts": 22,
-   "median": 613.0
+   "median": 813.5
+  },
+  "2026-10-07": {
+   "posts": 15,
+   "median": 743
   }
  }
 }
