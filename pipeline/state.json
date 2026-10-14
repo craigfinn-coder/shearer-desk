@@ -5417,6 +5417,15 @@
    "url": "https://celtsarehere.com/celtic-baur-germany-debut-klopp/",
    "views": 301,
    "type": "international"
+  },
+  {
+   "id": 144000,
+   "day": "2026-10-13",
+   "date": "2026-10-13T17:38:38+01:00",
+   "title": "Major Landon Emenalo Celtic Update",
+   "url": "https://celtsarehere.com/landon-emenalo-celtic-training/",
+   "views": 645,
+   "type": "other"
   }
  ],
  "site_by_day": {
@@ -5746,11 +5755,15 @@
   },
   "2026-10-11": {
    "posts": 15,
-   "median": 1633
+   "median": 1636
   },
   "2026-10-12": {
    "posts": 20,
-   "median": 831.5
+   "median": 889.0
+  },
+  "2026-10-13": {
+   "posts": 24,
+   "median": 479.0
   }
  }
 }
