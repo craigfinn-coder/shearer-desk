@@ -5424,8 +5424,98 @@
    "date": "2026-10-13T17:38:38+01:00",
    "title": "Major Landon Emenalo Celtic Update",
    "url": "https://celtsarehere.com/landon-emenalo-celtic-training/",
-   "views": 645,
+   "views": 731,
    "type": "other"
+  },
+  {
+   "id": 144011,
+   "day": "2026-10-14",
+   "date": "2026-10-14T07:23:48+01:00",
+   "title": "Celtic Investment Interest Emerges From \u2018Serious People\u2019",
+   "url": "https://celtsarehere.com/celtic-investment-interest/",
+   "views": 7439,
+   "type": "transfer_link"
+  },
+  {
+   "id": 144012,
+   "day": "2026-10-14",
+   "date": "2026-10-14T07:56:11+01:00",
+   "title": "Chris Sutton Urges Celtic Fans \u2018Patience\u2019 Despite Serious Concerns",
+   "url": "https://celtsarehere.com/chris-sutton-celtic-fans-patience/",
+   "views": 140,
+   "type": "fan_reaction"
+  },
+  {
+   "id": 144014,
+   "day": "2026-10-14",
+   "date": "2026-10-14T08:25:23+01:00",
+   "title": "\u201dBelieve Me\u201d \u2013 Marco Silva Insider Sends Celtic Stark Benfica Warning",
+   "url": "https://celtsarehere.com/silva-insider-celtic-benfica/",
+   "views": 356,
+   "type": "player_quotes"
+  },
+  {
+   "id": 144016,
+   "day": "2026-10-14",
+   "date": "2026-10-14T08:50:34+01:00",
+   "title": "Celtic\u2019s Unseen Tuesday Announcement",
+   "url": "https://celtsarehere.com/celtics-unseen-announcement/",
+   "views": 3733,
+   "type": "player_quotes"
+  },
+  {
+   "id": 144017,
+   "day": "2026-10-14",
+   "date": "2026-10-14T09:28:33+01:00",
+   "title": "\u201cNo Consultation\u201d \u2013 Celtic Trust Raise Major Concerns Ahead of AGM",
+   "url": "https://celtsarehere.com/celtic-trust-agm-concerns/",
+   "views": 861,
+   "type": "player_quotes"
+  },
+  {
+   "id": 144019,
+   "day": "2026-10-14",
+   "date": "2026-10-14T10:10:00+01:00",
+   "title": "Martin O\u2019Neill Rival Plans Cheeky Celtic Title Text Message",
+   "url": "https://celtsarehere.com/oneill-celtic-text/",
+   "views": 480,
+   "type": "manager_presser"
+  },
+  {
+   "id": 144020,
+   "day": "2026-10-14",
+   "date": "2026-10-14T10:50:41+01:00",
+   "title": "Journo Claims Celtic Have Next Manager \u2018Lined Up\u2019",
+   "url": "https://celtsarehere.com/next-celtic-manager-lined-up/",
+   "views": 4464,
+   "type": "journalist_report"
+  },
+  {
+   "id": 144021,
+   "day": "2026-10-14",
+   "date": "2026-10-14T11:26:56+01:00",
+   "title": "Celtic Teenager Handed Major First-Team Opportunity Before Benfica",
+   "url": "https://celtsarehere.com/celtic-training-latest/",
+   "views": 3566,
+   "type": "other"
+  },
+  {
+   "id": 144022,
+   "day": "2026-10-14",
+   "date": "2026-10-14T12:14:22+01:00",
+   "title": "Two Key Celtic Stars Miss Training Before Benfica",
+   "url": "https://celtsarehere.com/celtic-stars-miss-training-benfica/",
+   "views": 2882,
+   "type": "injury_news"
+  },
+  {
+   "id": 144023,
+   "day": "2026-10-14",
+   "date": "2026-10-14T12:51:33+01:00",
+   "title": "Dermot Desmond Insider Breaks Silence on Celtic Fan Protest",
+   "url": "https://celtsarehere.com/celtic-desmond-protest-response/",
+   "views": 3170,
+   "type": "board_backroom"
   }
  ],
  "site_by_day": {
@@ -5747,11 +5837,11 @@
   },
   "2026-10-09": {
    "posts": 23,
-   "median": 872
+   "median": 873
   },
   "2026-10-10": {
    "posts": 15,
-   "median": 545
+   "median": 546
   },
   "2026-10-11": {
    "posts": 15,
@@ -5759,11 +5849,15 @@
   },
   "2026-10-12": {
    "posts": 20,
-   "median": 889.0
+   "median": 898.0
   },
   "2026-10-13": {
    "posts": 24,
-   "median": 479.0
+   "median": 653.0
+  },
+  "2026-10-14": {
+   "posts": 22,
+   "median": 807.0
   }
  }
 }
