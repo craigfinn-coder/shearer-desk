@@ -5973,7 +5973,7 @@
    "date": "2026-10-19T15:29:15+01:00",
    "title": "Jota Makes Post-Match Celtic Vow to Supporters",
    "url": "https://celtsarehere.com/jota-celtic-vow/",
-   "views": 503,
+   "views": 506,
    "type": "fan_reaction"
   },
   {
@@ -5982,7 +5982,7 @@
    "date": "2026-10-19T16:24:34+01:00",
    "title": "Brendan Rodgers Issues Update After Glasgow Return Confirmed",
    "url": "https://celtsarehere.com/rodgers-update-glasgow-return/",
-   "views": 13655,
+   "views": 15883,
    "type": "manager_newsline"
   },
   {
@@ -5991,7 +5991,7 @@
    "date": "2026-10-19T16:38:30+01:00",
    "title": "Henrik Larsson\u2019s Savage Graeme Souness Revenge",
    "url": "https://celtsarehere.com/larsson-souness-celtic-revenge/",
-   "views": 1168,
+   "views": 1172,
    "type": "player_quotes"
   },
   {
@@ -6000,7 +6000,7 @@
    "date": "2026-10-19T17:17:50+01:00",
    "title": "\u201cOnly Because\u2026\u201d \u2013 Ewan Cameron\u2019s Explosive Celtic 7-1 Meltdown",
    "url": "https://celtsarehere.com/ewen-cameron-celtic-hearts-meltdown/",
-   "views": 3695,
+   "views": 3715,
    "type": "match_report"
   },
   {
@@ -6009,7 +6009,7 @@
    "date": "2026-10-19T17:32:39+01:00",
    "title": "Major Jota Celtic Fitness Update",
    "url": "https://celtsarehere.com/jota-celtic-fitness-latest/",
-   "views": 2601,
+   "views": 2734,
    "type": "injury_news"
   },
   {
@@ -6018,7 +6018,7 @@
    "date": "2026-10-19T17:52:19+01:00",
    "title": "Jota\u2019s Emotional Message Celtic Supporters Will Love",
    "url": "https://celtsarehere.com/jota-message-celtic-supporters/",
-   "views": 384,
+   "views": 390,
    "type": "fan_reaction"
   },
   {
@@ -6027,7 +6027,7 @@
    "date": "2026-10-19T18:27:48+01:00",
    "title": "\u201cThe Manager\u2026\u201d \u2013 Michael Stewart\u2019s Fiery Celtic 7-1 Meltdown",
    "url": "https://celtsarehere.com/michael-stewart-celtic-meltdown/",
-   "views": 3484,
+   "views": 3580,
    "type": "match_report"
   },
   {
@@ -6036,7 +6036,7 @@
    "date": "2026-10-19T19:12:06+01:00",
    "title": "Stephen McGowan\u2019s \u2018Oldco Rangers\u2019 Reminder for David Murray",
    "url": "https://celtsarehere.com/mcgowan-murray-rangers/",
-   "views": 2374,
+   "views": 2411,
    "type": "player_quotes"
   },
   {
@@ -6045,7 +6045,7 @@
    "date": "2026-10-19T19:36:16+01:00",
    "title": "The Celtic Dressing Room Meeting Behind Hearts Demolition",
    "url": "https://celtsarehere.com/celtic-dressing-room-meeting-hearts/",
-   "views": 1458,
+   "views": 1482,
    "type": "fan_reaction"
   },
   {
@@ -6054,7 +6054,7 @@
    "date": "2026-10-19T20:09:47+01:00",
    "title": "\u201cSo Important!\u201d \u2013 Unseen Celtic Figure Behind Hearts Rout",
    "url": "https://celtsarehere.com/unseen-celtic-influence-hearts/",
-   "views": 3488,
+   "views": 3599,
    "type": "player_quotes"
   },
   {
@@ -6063,7 +6063,7 @@
    "date": "2026-10-19T20:38:53+01:00",
    "title": "\u201dAll The Time\u201d \u2013 Martin O\u2019Neill\u2019s Celtic Star Admission Will Excite Supporters",
    "url": "https://celtsarehere.com/oneill-celtic-star-admission/",
-   "views": 1675,
+   "views": 1853,
    "type": "fan_reaction"
   },
   {
@@ -6072,8 +6072,134 @@
    "date": "2026-10-19T20:58:42+01:00",
    "title": "Jota Reveals Martin O\u2019Neill Talks Behind Celtic Return",
    "url": "https://celtsarehere.com/jota-oneill-celtic-talks/",
-   "views": 925,
+   "views": 936,
    "type": "manager_newsline"
+  },
+  {
+   "id": 144320,
+   "day": "2026-10-21",
+   "date": "2026-10-21T15:09:57+01:00",
+   "title": "Martin O\u2019Neill\u2019s Wednesday Celtic Absence Explained",
+   "url": "https://celtsarehere.com/martin-oneill-celtic-absence/",
+   "views": 3079,
+   "type": "injury_news"
+  },
+  {
+   "id": 144321,
+   "day": "2026-10-21",
+   "date": "2026-10-21T15:49:55+01:00",
+   "title": "Celtic Duo Backed for Move Fans Won\u2019t Like",
+   "url": "https://celtsarehere.com/celtic-duo-move-fans/",
+   "views": 1013,
+   "type": "transfer_link"
+  },
+  {
+   "id": 144323,
+   "day": "2026-10-21",
+   "date": "2026-10-21T15:58:49+01:00",
+   "title": "Celtic Double Injury Blow Confirmed Before Celta Vigo",
+   "url": "https://celtsarehere.com/celtic-double-injury-blow/",
+   "views": 2213,
+   "type": "injury_news"
+  },
+  {
+   "id": 144324,
+   "day": "2026-10-21",
+   "date": "2026-10-21T16:23:05+01:00",
+   "title": "Celtic Star Ruled Out in Surprise Celta Vigo Blow",
+   "url": "https://celtsarehere.com/celtic-star-ruled-out-celta/",
+   "views": 4222,
+   "type": "injury_news"
+  },
+  {
+   "id": 144325,
+   "day": "2026-10-21",
+   "date": "2026-10-21T16:39:19+01:00",
+   "title": "Celtic\u2019s Late Celta Vigo Return Boost",
+   "url": "https://celtsarehere.com/celtic-celta-vigo-boost/",
+   "views": 292,
+   "type": "player_quotes"
+  },
+  {
+   "id": 144326,
+   "day": "2026-10-21",
+   "date": "2026-10-21T17:08:19+01:00",
+   "title": "Maloney\u2019s Green Brigade Comment Piles Pressure on Celtic Board",
+   "url": "https://celtsarehere.com/maloney-green-brigade-celtic-board/",
+   "views": 3644,
+   "type": "board_backroom"
+  },
+  {
+   "id": 144327,
+   "day": "2026-10-21",
+   "date": "2026-10-21T17:43:00+01:00",
+   "title": "Shaun Maloney Provides Martin O\u2019Neill Celtic Future Update",
+   "url": "https://celtsarehere.com/maloney-oneill-celtic-future-latest/",
+   "views": 746,
+   "type": "manager_presser"
+  },
+  {
+   "id": 144328,
+   "day": "2026-10-21",
+   "date": "2026-10-21T17:53:26+01:00",
+   "title": "Auston Trusty Shares Heartbreaking Tribute to Dad",
+   "url": "https://celtsarehere.com/trusty-tribute-dad-celtic/",
+   "views": 845,
+   "type": "other"
+  },
+  {
+   "id": 144329,
+   "day": "2026-10-21",
+   "date": "2026-10-21T18:30:03+01:00",
+   "title": "Shaun Maloney\u2019s Warning Over Celtic\u2019s Unsolved Problem",
+   "url": "https://celtsarehere.com/maloney-warning-celtic-problem/",
+   "views": 216,
+   "type": "player_quotes"
+  },
+  {
+   "id": 144331,
+   "day": "2026-10-21",
+   "date": "2026-10-21T19:10:22+01:00",
+   "title": "\u201cSomething to Do With\u2026\u201d \u2013 Kasper H\u00f8gh Insider Makes Celtic Future Claim",
+   "url": "https://celtsarehere.com/hogh-insider-celtic-claim/",
+   "views": 2579,
+   "type": "player_quotes"
+  },
+  {
+   "id": 144332,
+   "day": "2026-10-21",
+   "date": "2026-10-21T19:40:23+01:00",
+   "title": "Celtic January Move Back On for \u00a34m Target \u2013 Report",
+   "url": "https://celtsarehere.com/celtic-january-move-back-on/",
+   "views": 2565,
+   "type": "transfer_link"
+  },
+  {
+   "id": 144333,
+   "day": "2026-10-21",
+   "date": "2026-10-21T20:06:22+01:00",
+   "title": "Journo Addresses Celtic Summer Signing\u2019s January Exit Talk",
+   "url": "https://celtsarehere.com/celtic-summer-signing-exit-talk/",
+   "views": 445,
+   "type": "journalist_report"
+  },
+  {
+   "id": 144334,
+   "day": "2026-10-21",
+   "date": "2026-10-21T20:28:40+01:00",
+   "title": "Celtic Insider Role Emerges Before Celta Vigo",
+   "url": "https://celtsarehere.com/celtic-insider-celta-vigo/",
+   "views": 298,
+   "type": "other"
+  },
+  {
+   "id": 144336,
+   "day": "2026-10-21",
+   "date": "2026-10-21T20:52:07+01:00",
+   "title": "Callum Osmand\u2019s Unseen Celtic Mentor Behind Position Change",
+   "url": "https://celtsarehere.com/osmand-celtic-mentor/",
+   "views": 986,
+   "type": "player_quotes"
   }
  ],
  "site_by_day": {
@@ -6435,11 +6561,15 @@
   },
   "2026-10-19": {
    "posts": 29,
-   "median": 1427
+   "median": 1450
   },
   "2026-10-20": {
    "posts": 27,
-   "median": 1094
+   "median": 1184
+  },
+  "2026-10-21": {
+   "posts": 23,
+   "median": 845
   }
  }
 }
