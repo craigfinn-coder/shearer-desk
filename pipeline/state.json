@@ -6603,7 +6603,7 @@
    "date": "2026-10-26T15:42:33+00:00",
    "title": "Alistair Johnston Celtic Scan Timeline",
    "url": "https://celtsarehere.com/johnston-celtic-scan-timeline/",
-   "views": 3497,
+   "views": 3598,
    "type": "injury_news"
   },
   {
@@ -6612,7 +6612,7 @@
    "date": "2026-10-26T16:18:59+00:00",
    "title": "Unseen Reason Behind Sam Johnstone\u2019s Celtic Starting XI Return",
    "url": "https://celtsarehere.com/reason-johnstone-celtic-starting-xi-return/",
-   "views": 2366,
+   "views": 2383,
    "type": "starting_xi"
   },
   {
@@ -6621,7 +6621,7 @@
    "date": "2026-10-26T16:57:24+00:00",
    "title": "Celtic Face McKenna Headache as Man Utd Eye Howe",
    "url": "https://celtsarehere.com/celtic-mckenna-howe-man-utd/",
-   "views": 683,
+   "views": 687,
    "type": "transfer_link"
   },
   {
@@ -6630,7 +6630,7 @@
    "date": "2026-10-26T17:17:12+00:00",
    "title": "\u201cBlaming\u2026\u201d \u2013 Chris Sutton Has One Problem With Celtic Star\u2019s Comments",
    "url": "https://celtsarehere.com/sutton-celtic-star-comments/",
-   "views": 318,
+   "views": 321,
    "type": "pundit_reaction"
   },
   {
@@ -6639,7 +6639,7 @@
    "date": "2026-10-26T17:33:02+00:00",
    "title": "Celtic SFA Appeal Update",
    "url": "https://celtsarehere.com/celtic-sfa-appeal-latest/",
-   "views": 4242,
+   "views": 4305,
    "type": "club_official"
   },
   {
@@ -6648,7 +6648,7 @@
    "date": "2026-10-26T19:46:33+00:00",
    "title": "Boyhood Celtic Fan Reveals Hearts Ultimatum Behind Rangers Move",
    "url": "https://celtsarehere.com/celtic-fan-hearts-rangers/",
-   "views": 3096,
+   "views": 3137,
    "type": "transfer_link"
   },
   {
@@ -6666,7 +6666,7 @@
    "date": "2026-10-26T18:15:44+00:00",
    "title": "Martin O\u2019Neill\u2019s Brilliant Colby Donovan Prediction After New Deal",
    "url": "https://celtsarehere.com/oneill-donovan-celtic-deal/",
-   "views": 264,
+   "views": 267,
    "type": "manager_newsline"
   },
   {
@@ -6675,7 +6675,7 @@
    "date": "2026-10-26T18:48:54+00:00",
    "title": "\u201cWasn\u2019t Aware\u201d \u2013 Journo Makes Shock Brendan Rodgers Celtic Exit Claim",
    "url": "https://celtsarehere.com/journo-rodgers-celtic-exit-claim/",
-   "views": 3668,
+   "views": 3691,
    "type": "journalist_report"
   },
   {
@@ -6684,7 +6684,7 @@
    "date": "2026-10-26T20:26:51+00:00",
    "title": "Gordon Strachan Reveals What Celtic Fans Really Want",
    "url": "https://celtsarehere.com/strachan-celtic-fans-really-want/",
-   "views": 1256,
+   "views": 1270,
    "type": "fan_reaction"
   },
   {
@@ -6693,8 +6693,89 @@
    "date": "2026-10-26T20:53:21+00:00",
    "title": "Celtic Board Faces Three AGM Demands After Major Breakthrough",
    "url": "https://celtsarehere.com/celtic-board-agm-demands-group/",
-   "views": 9664,
+   "views": 10056,
    "type": "board_backroom"
+  },
+  {
+   "id": 144616,
+   "day": "2026-10-28",
+   "date": "2026-10-28T16:03:30+00:00",
+   "title": "Celtic vs Falkirk Referee Appointment Comes With Eye-Catching Record",
+   "url": "https://celtsarehere.com/celtic-falkirk-referee-appointment/",
+   "views": 777,
+   "type": "officiating"
+  },
+  {
+   "id": 144617,
+   "day": "2026-10-28",
+   "date": "2026-10-28T16:36:12+00:00",
+   "title": "\u201cWe Saw That\u2026\u201d \u2013 Kelechi Iheanacho Lifts Lid on Failed Celtic Contract Talks",
+   "url": "https://celtsarehere.com/iheanacho-failed-celtic-talks/",
+   "views": 2312,
+   "type": "transfer_in_motion"
+  },
+  {
+   "id": 144618,
+   "day": "2026-10-28",
+   "date": "2026-10-28T17:37:02+00:00",
+   "title": "Gvidas Gineitis Comments Fuel January Celtic Move",
+   "url": "https://celtsarehere.com/gineitis-comments-january-celtic-move/",
+   "views": 1435,
+   "type": "transfer_link"
+  },
+  {
+   "id": 144619,
+   "day": "2026-10-28",
+   "date": "2026-10-28T18:34:06+00:00",
+   "title": "Celtic Starting XI vs Dundee United O\u2019Neill Makes Big Decision",
+   "url": "https://celtsarehere.com/celtic-starting-xi-dundee-united/",
+   "views": 351,
+   "type": "starting_xi"
+  },
+  {
+   "id": 144622,
+   "day": "2026-10-28",
+   "date": "2026-10-28T19:22:49+00:00",
+   "title": "Martin O\u2019Neill Provides Pre-Match Alistair Johnston Update",
+   "url": "https://celtsarehere.com/oneill-celtic-xi-johnston-latest/",
+   "views": 865,
+   "type": "manager_presser"
+  },
+  {
+   "id": 144623,
+   "day": "2026-10-28",
+   "date": "2026-10-28T22:12:40+00:00",
+   "title": "Celtic Blow Major Opportunity as Martin O\u2019Neill Problem Exposed",
+   "url": "https://celtsarehere.com/celtic-dundee-united/",
+   "views": 733,
+   "type": "injury_news"
+  },
+  {
+   "id": 144630,
+   "day": "2026-10-28",
+   "date": "2026-10-28T22:30:10+00:00",
+   "title": "\u201cFell Asleep\u2026\u201d \u2013 Martin O\u2019Neill Quizzed Over Damning Celtic Park Stat",
+   "url": "https://celtsarehere.com/oneill-damning-celtic-park-stat/",
+   "views": 828,
+   "type": "stats_data"
+  },
+  {
+   "id": 144632,
+   "day": "2026-10-28",
+   "date": "2026-10-28T22:48:36+00:00",
+   "title": "\u201cA Little Off\u2026\u201d \u2013 Martin O\u2019Neill\u2019s Surprise Answer to Jota Question",
+   "url": "https://celtsarehere.com/oneill-answer-jota-celtic-question/",
+   "views": 500,
+   "type": "manager_presser"
+  },
+  {
+   "id": 144633,
+   "day": "2026-10-28",
+   "date": "2026-10-28T22:57:56+00:00",
+   "title": "Martin O\u2019Neill\u2019s Celtic Number One Comments Raise Questions",
+   "url": "https://celtsarehere.com/oneill-celtic-number-one-latest/",
+   "views": 143,
+   "type": "manager_presser"
   }
  ],
  "site_by_day": {
@@ -7084,11 +7165,15 @@
   },
   "2026-10-26": {
    "posts": 22,
-   "median": 1056.5
+   "median": 1066.0
   },
   "2026-10-27": {
    "posts": 21,
-   "median": 740
+   "median": 877
+  },
+  "2026-10-28": {
+   "posts": 13,
+   "median": 828
   }
  }
 }
