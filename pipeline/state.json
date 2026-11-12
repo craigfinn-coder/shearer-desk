@@ -7620,7 +7620,7 @@
    "date": "2026-11-09T14:14:36+00:00",
    "title": "Callum McGregor Future Claim Leaves Celtic With Big Question",
    "url": "https://celtsarehere.com/mcgregor-celtic-future-claim/",
-   "views": 485,
+   "views": 488,
    "type": "exit_news"
   },
   {
@@ -7629,7 +7629,7 @@
    "date": "2026-11-09T15:17:44+00:00",
    "title": "Celtic Star\u2019s Sudden International Withdrawal Sparks Mystery",
    "url": "https://celtsarehere.com/celtic-star-international-withdrawal/",
-   "views": 2855,
+   "views": 2908,
    "type": "player_quotes"
   },
   {
@@ -7638,7 +7638,7 @@
    "date": "2026-11-09T16:42:25+00:00",
    "title": "Fontaines D.C. Star Sends Celtic Fans Into Frenzy",
    "url": "https://celtsarehere.com/fontaines-d-c-celtic/",
-   "views": 5946,
+   "views": 6051,
    "type": "fan_reaction"
   },
   {
@@ -7647,7 +7647,7 @@
    "date": "2026-11-09T17:40:28+00:00",
    "title": "Furious Martin O\u2019Neill Exchange Celtic Fans Will Want to See",
    "url": "https://celtsarehere.com/furious-oneill-celtic-kilmarnock/",
-   "views": 4844,
+   "views": 4901,
    "type": "fan_reaction"
   },
   {
@@ -7656,7 +7656,7 @@
    "date": "2026-11-09T18:24:31+00:00",
    "title": "Mika Baur Celtic Injury Update",
    "url": "https://celtsarehere.com/baur-celtic-germany-latest/",
-   "views": 8175,
+   "views": 8251,
    "type": "injury_news"
   },
   {
@@ -7665,7 +7665,7 @@
    "date": "2026-11-09T21:00:33+00:00",
    "title": "Celtic Supporters\u2019 Engagement Announcement Confirms Five Changes",
    "url": "https://celtsarehere.com/celtic-supporters-engagement-announcement/",
-   "views": 454,
+   "views": 462,
    "type": "fan_reaction"
   },
   {
@@ -7674,7 +7674,7 @@
    "date": "2026-11-09T22:30:56+00:00",
    "title": "Celtic Manager Target Now Wanted for Premier League Job",
    "url": "https://celtsarehere.com/celtic-manager-target-premier-league/",
-   "views": 1509,
+   "views": 1535,
    "type": "transfer_link"
   },
   {
@@ -7683,7 +7683,7 @@
    "date": "2026-11-09T20:39:05+00:00",
    "title": "Former Celtic Duo Separated by One Point in Title Race",
    "url": "https://celtsarehere.com/celtic-duo-title-race/",
-   "views": 240,
+   "views": 247,
    "type": "former_player"
   },
   {
@@ -7692,7 +7692,7 @@
    "date": "2026-11-09T21:25:56+00:00",
    "title": "Celtic Propose Major Change to Board Re-Election Rules",
    "url": "https://celtsarehere.com/celtic-propose-re-election-rules/",
-   "views": 859,
+   "views": 866,
    "type": "board_backroom"
   },
   {
@@ -7701,8 +7701,98 @@
    "date": "2026-11-09T21:58:16+00:00",
    "title": "Celtic Fans Are All Asking the Same Question",
    "url": "https://celtsarehere.com/celtic-fans-asking-question/",
-   "views": 1030,
+   "views": 1056,
    "type": "fan_reaction"
+  },
+  {
+   "id": 145083,
+   "day": "2026-11-11",
+   "date": "2026-11-11T10:38:17+00:00",
+   "title": "DFB Provide Mika Baur Update",
+   "url": "https://celtsarehere.com/dfb-baur-injury/",
+   "views": 4333,
+   "type": "other"
+  },
+  {
+   "id": 145095,
+   "day": "2026-11-11",
+   "date": "2026-11-11T17:13:31+00:00",
+   "title": "Journo Reveals Celtic Could Reopen Huge January Move",
+   "url": "https://celtsarehere.com/journo-celtic-january-move/",
+   "views": 2124,
+   "type": "journalist_report"
+  },
+  {
+   "id": 145096,
+   "day": "2026-11-11",
+   "date": "2026-11-11T17:41:30+00:00",
+   "title": "Oliver S\u00f8rensen Claims Addressed",
+   "url": "https://celtsarehere.com/sorensen-claims-addressed/",
+   "views": 942,
+   "type": "player_quotes"
+  },
+  {
+   "id": 145097,
+   "day": "2026-11-11",
+   "date": "2026-11-11T18:07:32+00:00",
+   "title": "Sky Reporter Details Celtic Transfer Hold-Ups",
+   "url": "https://celtsarehere.com/joseph-celtic-transfer-process-claim/",
+   "views": 1242,
+   "type": "transfer_link"
+  },
+  {
+   "id": 145098,
+   "day": "2026-11-11",
+   "date": "2026-11-11T18:32:40+00:00",
+   "title": "Journalist Details Who Really Did Celtic Deals",
+   "url": "https://celtsarehere.com/tisdale-power-celtic/",
+   "views": 598,
+   "type": "other"
+  },
+  {
+   "id": 145100,
+   "day": "2026-11-11",
+   "date": "2026-11-11T19:20:25+00:00",
+   "title": "Eye-Opening Adam Idah Celtic Fee Claim Emerges",
+   "url": "https://celtsarehere.com/idah-celtic-fee-claim/",
+   "views": 3971,
+   "type": "transfer_link"
+  },
+  {
+   "id": 145101,
+   "day": "2026-11-11",
+   "date": "2026-11-11T21:00:47+00:00",
+   "title": "Celtic Star Reveals Bizarre Moment Behind Injury Nightmare",
+   "url": "https://celtsarehere.com/celtic-star-reveals-bizarre-moment/",
+   "views": 144,
+   "type": "injury_news"
+  },
+  {
+   "id": 145103,
+   "day": "2026-11-11",
+   "date": "2026-11-11T21:30:06+00:00",
+   "title": "Brutal Celtic Fan Treatment Clement Still Remembers",
+   "url": "https://celtsarehere.com/clement-haunted-celtic/",
+   "views": 198,
+   "type": "fan_reaction"
+  },
+  {
+   "id": 145104,
+   "day": "2026-11-11",
+   "date": "2026-11-11T22:30:34+00:00",
+   "title": "Celtic Face Nightmare European Qualifying Path",
+   "url": "https://celtsarehere.com/celtic-european-qualifying-path/",
+   "views": 513,
+   "type": "other"
+  },
+  {
+   "id": 145105,
+   "day": "2026-11-11",
+   "date": "2026-11-11T21:57:33+00:00",
+   "title": "Eight Celtic Players Face Major Future Decisions",
+   "url": "https://celtsarehere.com/celtic-players-summer-decision/",
+   "views": 272,
+   "type": "other"
   }
  ],
  "site_by_day": {
@@ -8148,11 +8238,15 @@
   },
   "2026-11-09": {
    "posts": 22,
-   "median": 471.5
+   "median": 475.0
   },
   "2026-11-10": {
    "posts": 18,
-   "median": 468.0
+   "median": 681.5
+  },
+  "2026-11-11": {
+   "posts": 20,
+   "median": 911.0
   }
  }
 }
