@@ -7710,7 +7710,7 @@
    "date": "2026-11-11T10:38:17+00:00",
    "title": "DFB Provide Mika Baur Update",
    "url": "https://celtsarehere.com/dfb-baur-injury/",
-   "views": 4333,
+   "views": 4904,
    "type": "other"
   },
   {
@@ -7719,7 +7719,7 @@
    "date": "2026-11-11T17:13:31+00:00",
    "title": "Journo Reveals Celtic Could Reopen Huge January Move",
    "url": "https://celtsarehere.com/journo-celtic-january-move/",
-   "views": 2124,
+   "views": 2675,
    "type": "journalist_report"
   },
   {
@@ -7728,7 +7728,7 @@
    "date": "2026-11-11T17:41:30+00:00",
    "title": "Oliver S\u00f8rensen Claims Addressed",
    "url": "https://celtsarehere.com/sorensen-claims-addressed/",
-   "views": 942,
+   "views": 1084,
    "type": "player_quotes"
   },
   {
@@ -7737,7 +7737,7 @@
    "date": "2026-11-11T18:07:32+00:00",
    "title": "Sky Reporter Details Celtic Transfer Hold-Ups",
    "url": "https://celtsarehere.com/joseph-celtic-transfer-process-claim/",
-   "views": 1242,
+   "views": 1500,
    "type": "transfer_link"
   },
   {
@@ -7746,7 +7746,7 @@
    "date": "2026-11-11T18:32:40+00:00",
    "title": "Journalist Details Who Really Did Celtic Deals",
    "url": "https://celtsarehere.com/tisdale-power-celtic/",
-   "views": 598,
+   "views": 738,
    "type": "other"
   },
   {
@@ -7755,7 +7755,7 @@
    "date": "2026-11-11T19:20:25+00:00",
    "title": "Eye-Opening Adam Idah Celtic Fee Claim Emerges",
    "url": "https://celtsarehere.com/idah-celtic-fee-claim/",
-   "views": 3971,
+   "views": 6966,
    "type": "transfer_link"
   },
   {
@@ -7764,7 +7764,7 @@
    "date": "2026-11-11T21:00:47+00:00",
    "title": "Celtic Star Reveals Bizarre Moment Behind Injury Nightmare",
    "url": "https://celtsarehere.com/celtic-star-reveals-bizarre-moment/",
-   "views": 144,
+   "views": 240,
    "type": "injury_news"
   },
   {
@@ -7773,7 +7773,7 @@
    "date": "2026-11-11T21:30:06+00:00",
    "title": "Brutal Celtic Fan Treatment Clement Still Remembers",
    "url": "https://celtsarehere.com/clement-haunted-celtic/",
-   "views": 198,
+   "views": 460,
    "type": "fan_reaction"
   },
   {
@@ -7782,7 +7782,7 @@
    "date": "2026-11-11T22:30:34+00:00",
    "title": "Celtic Face Nightmare European Qualifying Path",
    "url": "https://celtsarehere.com/celtic-european-qualifying-path/",
-   "views": 513,
+   "views": 2698,
    "type": "other"
   },
   {
@@ -7791,8 +7791,89 @@
    "date": "2026-11-11T21:57:33+00:00",
    "title": "Eight Celtic Players Face Major Future Decisions",
    "url": "https://celtsarehere.com/celtic-players-summer-decision/",
-   "views": 272,
+   "views": 674,
    "type": "other"
+  },
+  {
+   "id": 145124,
+   "day": "2026-11-12",
+   "date": "2026-11-12T15:30:57+00:00",
+   "title": "Celtic\u2019s Dramatic Decline Laid Bare in Major Study",
+   "url": "https://celtsarehere.com/celtic-decline-study/",
+   "views": 468,
+   "type": "player_quotes"
+  },
+  {
+   "id": 145126,
+   "day": "2026-11-12",
+   "date": "2026-11-12T16:04:07+00:00",
+   "title": "Celtic Wonderkid Makes O\u2019Neill Take Notice After Scotland Heroics",
+   "url": "https://celtsarehere.com/celtic-wonderkid-oneill-scotland/",
+   "views": 3756,
+   "type": "manager_presser"
+  },
+  {
+   "id": 145127,
+   "day": "2026-11-12",
+   "date": "2026-11-12T17:04:56+00:00",
+   "title": "Kasper H\u00f8gh Insider Opens Up on Tough Celtic Talks",
+   "url": "https://celtsarehere.com/hogh-insider-celtic-talks/",
+   "views": 1669,
+   "type": "transfer_in_motion"
+  },
+  {
+   "id": 145128,
+   "day": "2026-11-12",
+   "date": "2026-11-12T18:02:24+00:00",
+   "title": "Sky Sports Journalist Exposes Major Celtic Recruitment Problem",
+   "url": "https://celtsarehere.com/sky-journalist-celtic-recruitment-problem/",
+   "views": 151,
+   "type": "board_backroom"
+  },
+  {
+   "id": 145131,
+   "day": "2026-11-12",
+   "date": "2026-11-12T19:02:53+00:00",
+   "title": "Celtic Hit Back Over Hearts\u2019 Shock Tynecastle Allocation Decision",
+   "url": "https://celtsarehere.com/celtic-tynecastle-allocation-statement/",
+   "views": 1574,
+   "type": "player_quotes"
+  },
+  {
+   "id": 145135,
+   "day": "2026-11-12",
+   "date": "2026-11-12T20:02:48+00:00",
+   "title": "Celtic\u2019s Financial Gap Over Rangers Grows Amid Fan Protests",
+   "url": "https://celtsarehere.com/celtic-gap-rangers/",
+   "views": 960,
+   "type": "fan_reaction"
+  },
+  {
+   "id": 145136,
+   "day": "2026-11-12",
+   "date": "2026-11-12T21:00:26+00:00",
+   "title": "Hearts Respond to Thursday Celtic Statement",
+   "url": "https://celtsarehere.com/hearts-celtic-tynecastle-statement/",
+   "views": 2114,
+   "type": "club_official"
+  },
+  {
+   "id": 145137,
+   "day": "2026-11-12",
+   "date": "2026-11-12T22:30:41+00:00",
+   "title": "Celtic Collective Confirm Dermot Desmond Silence",
+   "url": "https://celtsarehere.com/celtic-collective-desmond-question/",
+   "views": 205,
+   "type": "board_backroom"
+  },
+  {
+   "id": 145139,
+   "day": "2026-11-12",
+   "date": "2026-11-12T21:49:42+00:00",
+   "title": "Celtic Star\u2019s International Brace Raises Awkward Game-Time Question",
+   "url": "https://celtsarehere.com/celtic-star-brace/",
+   "views": 733,
+   "type": "player_quotes"
   }
  ],
  "site_by_day": {
@@ -8242,11 +8323,15 @@
   },
   "2026-11-10": {
    "posts": 18,
-   "median": 681.5
+   "median": 687.0
   },
   "2026-11-11": {
-   "posts": 20,
-   "median": 911.0
+   "posts": 21,
+   "median": 1084
+  },
+  "2026-11-12": {
+   "posts": 16,
+   "median": 846.5
   }
  }
 }
