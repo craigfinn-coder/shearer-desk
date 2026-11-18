@@ -8034,7 +8034,7 @@
    "date": "2026-11-16T14:22:41+00:00",
    "title": "\u201cFound Out\u2026\u201d \u2013 Martin O\u2019Neill Insider Lifts Lid on Private Talks",
    "url": "https://celtsarehere.com/oneill-insider-private-talks/",
-   "views": 4798,
+   "views": 5621,
    "type": "manager_newsline"
   },
   {
@@ -8043,7 +8043,7 @@
    "date": "2026-11-16T15:13:42+00:00",
    "title": "Celtic Supporters Group Defends Controversial Board Re-Election Decision",
    "url": "https://celtsarehere.com/celtic-group-board-re-election-decision/",
-   "views": 829,
+   "views": 934,
    "type": "board_backroom"
   },
   {
@@ -8052,7 +8052,7 @@
    "date": "2026-11-16T16:08:26+00:00",
    "title": "Celtic Star Sparks Major Concern After Missing Training",
    "url": "https://celtsarehere.com/celtic-star-injury-concern/",
-   "views": 2097,
+   "views": 2165,
    "type": "fan_reaction"
   },
   {
@@ -8061,7 +8061,7 @@
    "date": "2026-11-16T17:45:38+00:00",
    "title": "Brendan Rodgers Makes Surprise Decision Amid Saudi Title Challenge",
    "url": "https://celtsarehere.com/rodgers-decision-al-qadsiah/",
-   "views": 1334,
+   "views": 1588,
    "type": "manager_presser"
   },
   {
@@ -8070,7 +8070,7 @@
    "date": "2026-11-16T17:26:38+00:00",
    "title": "How to Watch Kieran Tierney in Scotland Action Tonight",
    "url": "https://celtsarehere.com/tierney-scotland-tonight/",
-   "views": 181,
+   "views": 194,
    "type": "preview"
   },
   {
@@ -8079,7 +8079,7 @@
    "date": "2026-11-16T18:23:28+00:00",
    "title": "Celtic Star Dropped Despite Two-Goal Heroics",
    "url": "https://celtsarehere.com/celtic-star-dopped/",
-   "views": 714,
+   "views": 804,
    "type": "other"
   },
   {
@@ -8088,7 +8088,7 @@
    "date": "2026-11-16T19:09:03+00:00",
    "title": "Celtic Trust Raises Alarm Over AGM Voting Rules",
    "url": "https://celtsarehere.com/celtic-trust-board-agm/",
-   "views": 455,
+   "views": 621,
    "type": "other"
   },
   {
@@ -8097,7 +8097,7 @@
    "date": "2026-11-16T19:50:17+00:00",
    "title": "Green Brigade Confirm Details of Annual Foodbank Collection",
    "url": "https://celtsarehere.com/green-brigade-details-annual-foodbank-collection/",
-   "views": 296,
+   "views": 549,
    "type": "fan_reaction"
   },
   {
@@ -8106,7 +8106,7 @@
    "date": "2026-11-16T20:21:06+00:00",
    "title": "\u201cHasn\u2019t Improved\u2026\u201d \u2013 Celtic Handed Worrying Injury Update",
    "url": "https://celtsarehere.com/celtic-worrying-injury-update/",
-   "views": 913,
+   "views": 1658,
    "type": "injury_news"
   },
   {
@@ -8115,7 +8115,7 @@
    "date": "2026-11-16T21:00:48+00:00",
    "title": "Celtic Loanee Tipped to Shatter World Cup Winner\u2019s Transfer Record",
    "url": "https://celtsarehere.com/celtic-loanee-transfer-record/",
-   "views": 2979,
+   "views": 7250,
    "type": "transfer_link"
   },
   {
@@ -8124,7 +8124,7 @@
    "date": "2026-11-16T22:30:09+00:00",
    "title": "Kieran Tierney Faces Scotland Future Decision Amid Celtic Concerns",
    "url": "https://celtsarehere.com/tierney-scotland-future/",
-   "views": 315,
+   "views": 1042,
    "type": "other"
   }
  ],
@@ -8595,11 +8595,15 @@
   },
   "2026-11-15": {
    "posts": 15,
-   "median": 651
+   "median": 655
   },
   "2026-11-16": {
    "posts": 20,
-   "median": 860.0
+   "median": 988.0
+  },
+  "2026-11-17": {
+   "posts": 18,
+   "median": 599.0
   }
  }
 }
