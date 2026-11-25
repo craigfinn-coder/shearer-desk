@@ -8322,7 +8322,7 @@
    "date": "2026-11-20T13:32:46+00:00",
    "title": "Celtic Face Double Injury Scare",
    "url": "https://celtsarehere.com/celtic-double-injury-scare/",
-   "views": 325,
+   "views": 327,
    "type": "injury_news"
   },
   {
@@ -8367,7 +8367,7 @@
    "date": "2026-11-20T02:00:50+00:00",
    "title": "Why Celtic\u2019s Domestic Form Can Become Almost Irrelevant Before A Glasgow Derby Game",
    "url": "https://celtsarehere.com/why-celtics-domestic-form-can-become-almost-irrelevant-before-a-glasgow-derby-game/",
-   "views": 4,
+   "views": 6,
    "type": "player_quotes"
   },
   {
@@ -8529,7 +8529,7 @@
    "date": "2026-11-23T14:24:17+00:00",
    "title": "Premier League Side Scouts Celtic Star",
    "url": "https://celtsarehere.com/premier-league-scout-celtic-star/",
-   "views": 616,
+   "views": 763,
    "type": "other"
   },
   {
@@ -8538,7 +8538,7 @@
    "date": "2026-11-23T15:11:36+00:00",
    "title": "Celtic January Target\u2019s Club Chief Drops Transfer Hint",
    "url": "https://celtsarehere.com/celtic-target-chief-hint/",
-   "views": 660,
+   "views": 712,
    "type": "transfer_link"
   },
   {
@@ -8547,7 +8547,7 @@
    "date": "2026-11-23T15:53:43+00:00",
    "title": "Italian Giants Eye Celtic Midfielder",
    "url": "https://celtsarehere.com/italian-giants-celtic-midfielder/",
-   "views": 2296,
+   "views": 2647,
    "type": "transfer_link"
   },
   {
@@ -8556,7 +8556,7 @@
    "date": "2026-11-23T16:33:33+00:00",
    "title": "Torreense Boss Makes Surprise Celtic Claim After Benfica Defeat",
    "url": "https://celtsarehere.com/torreense-boss-celtic-benfica/",
-   "views": 2026,
+   "views": 2565,
    "type": "player_quotes"
   },
   {
@@ -8565,7 +8565,7 @@
    "date": "2026-11-23T16:58:44+00:00",
    "title": "Celtic Park World Cup Snub",
    "url": "https://celtsarehere.com/celtic-park-world-cup-snub/",
-   "views": 1788,
+   "views": 2139,
    "type": "other"
   },
   {
@@ -8574,7 +8574,7 @@
    "date": "2026-11-23T17:44:54+00:00",
    "title": "Stephen McGowan Suggests January Exit for Celtic Signing",
    "url": "https://celtsarehere.com/mcgowan-celtic-signing-exit/",
-   "views": 2606,
+   "views": 3208,
    "type": "transfer_link"
   },
   {
@@ -8583,7 +8583,7 @@
    "date": "2026-11-23T21:00:22+00:00",
    "title": "Celtic Hold Talks Over Major Matchday Shake-Up",
    "url": "https://celtsarehere.com/celtic-talks-matchday-shake-up/",
-   "views": 1700,
+   "views": 3184,
    "type": "transfer_in_motion"
   },
   {
@@ -8592,7 +8592,7 @@
    "date": "2026-11-23T22:30:59+00:00",
    "title": "Stephen McGowan Casts Doubt Over Celtic Trio\u2019s Future",
    "url": "https://celtsarehere.com/mcgowan-doubt-celtic-trio-future/",
-   "views": 372,
+   "views": 2128,
    "type": "player_quotes"
   },
   {
@@ -8601,7 +8601,7 @@
    "date": "2026-11-23T19:31:02+00:00",
    "title": "Celtic SFA Disagreement Update",
    "url": "https://celtsarehere.com/celtic-sfa-disagreement-latest/",
-   "views": 1260,
+   "views": 1695,
    "type": "club_official"
   },
   {
@@ -8610,7 +8610,7 @@
    "date": "2026-11-23T20:24:50+00:00",
    "title": "Green Brigade Make Incredible Monday Night Announcement",
    "url": "https://celtsarehere.com/green-brigade-incredible-announcement/",
-   "views": 10829,
+   "views": 20795,
    "type": "fan_reaction"
   },
   {
@@ -8619,7 +8619,7 @@
    "date": "2026-11-23T21:33:04+00:00",
    "title": "Brilliant Celtic Stat Emerges",
    "url": "https://celtsarehere.com/celtic-stat-emerges/",
-   "views": 358,
+   "views": 774,
    "type": "stats_data"
   },
   {
@@ -8628,7 +8628,7 @@
    "date": "2026-11-23T21:59:29+00:00",
    "title": "Celtic\u2019s Monday Night Draw Raises Eyebrows",
    "url": "https://celtsarehere.com/celtic-women-scottish-cup-draw/",
-   "views": 1355,
+   "views": 5788,
    "type": "player_quotes"
   }
  ],
@@ -9127,11 +9127,15 @@
   },
   "2026-11-22": {
    "posts": 14,
-   "median": 1181.0
+   "median": 1195.5
   },
   "2026-11-23": {
    "posts": 18,
-   "median": 1307.5
+   "median": 1718.5
+  },
+  "2026-11-24": {
+   "posts": 18,
+   "median": 512.0
   }
  }
 }
